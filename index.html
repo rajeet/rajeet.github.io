@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rajeet Mangrati</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+</head>
+
+<body>
+
+    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <script>
+        fetch("https://api.github.com/users/rajeet")
+            .then(response => response.json())
+            .then(function (data) {
+                console.log(data);
+                document.getElementById("imgLocation").src = data.avatar_url;
+                document.getElementById("fullName").textContent = data.name;
+                document.getElementById("bio").textContent = data.bio;
+                document.getElementById("location").textContent = data.location;
+                document.getElementById("mainContainer").hidden = false;
+                document.getElementById("loading").hidden = true;
+
+            })
+    </script>
+    <center>
+
+        <div class="container fluids jumbotron bg-light shadow-lg" id="mainContainer" hidden>
+            <div class="card shadow-lg bg-light     rounded" style="width: 18rem;">
+                <img id="imgLocation" class="card-img-top rounded" alt="">
+                <div class="card-body">
+                    <h4 class="card-title" id="fullName"></h4>
+                    <p class="card-text text-secondary" id="bio"></p>
+                    <p class="card-text text-secondary" id="location"></p>
+                    <a href="https://twitter.com/rajeet_mangrati?ref_src=twsrc%5Etfw" class="twitter-follow-button"
+                        data-show-count="false">Follow @rajeet_mangrati</a>
+                    <!-- <a href="#" class="btn btn-primary" id="linkToProfile">My Resume</a> -->
+                </div>
+            </div>
+        </div>
+        <div id="loading">
+            <div class="spinner-grow text-primary" role="status">
+                <span class="sr-only">Loading...</span>
+            </div>
+            <div class="spinner-grow text-secondary" role="status">
+                <span class="sr-only">Loading...</span>
+            </div>
+            <div class="spinner-grow text-success" role="status">
+                <span class="sr-only">Loading...</span>
+            </div>
+            <div class="spinner-grow text-danger" role="status">
+                <span class="sr-only">Loading...</span>
+            </div>
+            <div class="spinner-grow text-warning" role="status">
+                <span class="sr-only">Loading...</span>
+            </div>
+            <div class="spinner-grow text-info" role="status">
+                <span class="sr-only">Loading...</span>
+            </div>
+            <div class="spinner-grow text-dark" role="status">
+                <span class="sr-only">Loading...</span>
+            </div>
+        </div>
+    </center>
+</body>
+
+</html>
