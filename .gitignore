@@ -1,0 +1,28 @@
+# Jekyll files
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Bundler
+/vendor/bundle/
+/vendor/cache/
+/vendor/gems/
+/vendor/ruby/
+
+# Logs and databases
+*.log
+*.sqlite3
+*.swp
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.pid
+*.seed
+*.old
+
+# Node modules (if you're using them)
+node_modules/
