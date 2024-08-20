@@ -9,7 +9,7 @@ subtitle: Rajeet Mangrati
 
 ### SKILLS
 
-``` | Test Case Design | Test Plan | javascript | Git | Linux | Cypress | Postman | Playwright | Jmeter | K6] | CI/CD | Sitespeed.io |```  
+``` | Test Case Design | Test Plan | javascript | Git | Linux | Cypress | Postman | Playwright | Jmeter | K6 | CI/CD | Sitespeed.io |```  
 
 ### PROJECTS
 **MeroShare IPO Automation** - [Explore the code on GitHub](https://github.com/rajeet/meroshare_automation)
