@@ -44,6 +44,10 @@ Studying at KIST College provided me with the opportunity to enhance my technica
  
 ### EXPERIENCE
 
+SDET-II - **UBA Solutions - Monotype Partner Company** <span style="float:right;">May 2024 - Present</span>
+-  Successfully contributed to test automation efforts, significantly improving test efficiency, coverage, and early bug detection in the development lifecycle.
+- Spearheaded the integration of Jenkins into QA workflows and conducted knowledge-sharing sessions on CI/CD best practices, boosting team competency and deployment efficiency.
+
 QA Engieer - **Logicabeans Solutions, Kathmandu Nepal** <span style="float: right; ">June 2023 - Feburary 2024</span>  
 - Developed UI automation testing using Cypress and API testing with Postman, resulting in 50% reduction in regression testing time. 
 - Proficiently integrated Pynt, an API security testing tool, into CI/CD pipeline to strengthen API security testing tool. 
@@ -68,6 +72,7 @@ QA Engineer Intern - **Young Innovation Pvt. Ltd, Lalitpur, Nepal** <span style=
 
 ### RECOGNITION & CERTIFICATES
 
+- [AWS CCP] (https://www.credly.com/badges/1b432389-3daf-4470-a120-268b6584e76b/public_url)
 - [Advance Cypress](https://testautomationu.applitools.com/certificate/?id=7703d40c)
 - [API Penetration Testing](https://www.credly.com/badges/6efa0e07-4203-439f-8fd8-5fa8fe9078c5/linked_in_profile)
 - [Pynt Champion](https://www.credential.net/cd7a65c6-7385-4885-af08-43e81797952b#gs.ds10oj)
