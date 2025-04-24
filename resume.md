@@ -44,11 +44,7 @@ Studying at KIST College provided me with the opportunity to enhance my technica
  
 ### EXPERIENCE
 
-SDET-II - **Monotype** <span style="float:right;">May 2024 - Present</span>
--  Successfully contributed to test automation efforts, significantly improving test efficiency, coverage, and early bug detection in the development lifecycle.
-- Spearheaded the integration of Jenkins into QA workflows and conducted knowledge-sharing sessions on CI/CD best practices, boosting team competency and deployment efficiency.
-
-SDET-II - **UBA Solutions - Monotype Partner Company** <span style="float:right;">May 2024 - Present</span>
+SDET-II - **Monotype | UBA Solutions | Monotype Partner Company** <span style="float:right;">May 2024 - Present</span>
 -  Successfully contributed to test automation efforts, significantly improving test efficiency, coverage, and early bug detection in the development lifecycle.
 - Spearheaded the integration of Jenkins into QA workflows and conducted knowledge-sharing sessions on CI/CD best practices, boosting team competency and deployment efficiency.
 
