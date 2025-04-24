@@ -9,7 +9,7 @@ subtitle: Rajeet Mangrati
 
 ### SKILLS
 
-``` | Test Case Design | Test Plan | javascript | Git | Linux | Cypress | Postman | Playwright | Jmeter | K6 | CI/CD | Sitespeed.io |```  
+``` | Test Case Design | Test Plan | javascript | Git | Linux | Cypress | Postman | Playwright | Jmeter | K6 | CI/CD | Sitespeed.io | Panda | Python | Docker |```  
 
 ### PROJECTS
 **MeroShare IPO Automation** - [Explore the code on GitHub](https://github.com/rajeet/meroshare_automation)
@@ -44,6 +44,10 @@ Studying at KIST College provided me with the opportunity to enhance my technica
  
 ### EXPERIENCE
 
+SDET-II - **Monotype** <span style="float:right;">May 2024 - Present</span>
+-  Successfully contributed to test automation efforts, significantly improving test efficiency, coverage, and early bug detection in the development lifecycle.
+- Spearheaded the integration of Jenkins into QA workflows and conducted knowledge-sharing sessions on CI/CD best practices, boosting team competency and deployment efficiency.
+
 SDET-II - **UBA Solutions - Monotype Partner Company** <span style="float:right;">May 2024 - Present</span>
 -  Successfully contributed to test automation efforts, significantly improving test efficiency, coverage, and early bug detection in the development lifecycle.
 - Spearheaded the integration of Jenkins into QA workflows and conducted knowledge-sharing sessions on CI/CD best practices, boosting team competency and deployment efficiency.
@@ -72,7 +76,7 @@ QA Engineer Intern - **Young Innovation Pvt. Ltd, Lalitpur, Nepal** <span style=
 
 ### RECOGNITION & CERTIFICATES
 
-- [AWS CCP] (https://www.credly.com/badges/1b432389-3daf-4470-a120-268b6584e76b/public_url)
+- [AWS CCP](https://www.credly.com/badges/1b432389-3daf-4470-a120-268b6584e76b/public_url)
 - [Advance Cypress](https://testautomationu.applitools.com/certificate/?id=7703d40c)
 - [API Penetration Testing](https://www.credly.com/badges/6efa0e07-4203-439f-8fd8-5fa8fe9078c5/linked_in_profile)
 - [Pynt Champion](https://www.credential.net/cd7a65c6-7385-4885-af08-43e81797952b#gs.ds10oj)
